@@ -1,0 +1,9 @@
+{
+  "firebase": "softwaresufi",
+  "public": "www",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
